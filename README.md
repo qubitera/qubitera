@@ -1,4 +1,4 @@
-# Hi there, I'm Somnath! 👋
+# Hi there, I'm Somnath(QubitEra)! 👋
 
 ## 💻 About Me
 I'm a **Computer Science student** passionate about:
